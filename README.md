@@ -1,6 +1,6 @@
 # Der Mathematiktrainer
 
-Interaktive Mathematiktrainer für Tafel und Smartboard aus dem eigenen Unterrichtsmaterial: Lösungswege Schritt für Schritt (Vorführer), die Aufgaben des Arbeitsblatts per Knopf, Zufallsaufgaben in drei Stufen (Blitz). Ein KI-Assistent in Fobizz schreibt einen kurzen Trainer-Code; der Baukasten im Browser prüft ihn und macht daraus eine eigenständige HTML-Datei.
+Interaktive Mathematiktrainer aus dem eigenen Unterrichtsmaterial, vor allem zum selbstständigen Üben: Die Kinder kontrollieren ihren Rechenweg im eigenen Tempo Schritt für Schritt – Aufbau und Notation, nicht nur das Endergebnis (Vorführer mit den Aufgaben des Arbeitsblatts per Knopf); dazu Zufallsaufgaben in drei Stufen (Blitz). Auch an der Tafel einsetzbar. Ein KI-Assistent in Fobizz schreibt einen kurzen Trainer-Code; der Baukasten im Browser prüft ihn und macht daraus eine eigenständige HTML-Datei.
 
 **Beitrag:** https://andreas-hemmeter.de/Mathematiktrainer/
 
